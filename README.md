@@ -1,4 +1,4 @@
 Grupo:
-João Pedro Correia
-Mauricio Adrián Sagárnaga Arené
-Paulo Renan Barroso Guerra
+<p>João Pedro Correia</p>
+<p>Mauricio Adrián Sagárnaga Arené</p>
+<p>Paulo Renan Barroso Guerra</p>
